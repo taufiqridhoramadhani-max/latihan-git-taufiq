@@ -1,0 +1,10 @@
+Nama Lengkap: Muhammad Taufiq Ridho Ramadhani
+Nama Panggilan: Taufiq/Ridho
+Tempat, Tanggal Lahir: [Martapura, 07 Oktober 2006]
+Jenis Kelamin: Laki-laki
+Kewarganegaraan: Indonesia
+Alamat Domisili: Cimahi, Jl. Sentral
+Pendidikan Terakhir: Sistem Informasi, Universitas Al-Ghifari
+Keahlian Teknis: Bahasa pemrograman yang dikuasai: HTML, CSS, PHP
+Kontak Email: taufiqridhoramadhani@gmail.com
+Tautan Profesional: https://github.com/taufiqridhoramadhani-max
