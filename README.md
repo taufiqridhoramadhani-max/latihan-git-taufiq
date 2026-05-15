@@ -11,3 +11,5 @@ Tautan Profesional: https://github.com/taufiqridhoramadhani-max
 
 Suka Memecahkan Masalah: Menikmati proses analisis masalah kompleks untuk menemukan solusi logis.
 Prospek Karier Luas: Kebutuhan tenaga ahli IT sangat tinggi di berbagai sektor industri.
+
+Keahlian Interpersonal (Soft Skills): Kemampuan non-teknis penting seperti komunikasi, kerja sama tim, dan manajemen waktu.
